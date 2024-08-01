@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[Fantasy Chronicles]]></title>
+        <description><![CDATA[A podcast diving into the mythical and magical world of fantasy stories, legends, and lore. Join us as we explore tales of dragons, knights, and mysterious realms.]]></description>
+        <link>https://example.com/fantasychronicles</link>
+        <image>
+            <url>https://i.ibb.co/Gnsd2rZ/crimeee.png</url>
+            <title>Fantasy Chronicles</title>
+            <link>https://i.ibb.co/Gnsd2rZ/crimeee.png</link>
+        </image>
+        <generator>Custom RSS Generator</generator>
+        <lastBuildDate>Thu, 01 Aug 2024 10:01:07 GMT</lastBuildDate>
+        <atom:link href="https://example.com/fantasy_chronicles_rss.xml" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Fantasy Chronicles Team]]></author>
+        <copyright><![CDATA[Fantasy Chronicles]]></copyright>
+        <language>en-us</language>
+        <itunes:author>Fantasy Chronicles Team</itunes:author>
+        <itunes:summary>A podcast diving into the mythical and magical world of fantasy stories, legends, and lore. Join us as we explore tales of dragons, knights, and mysterious realms.</itunes:summary>
+        <itunes:type>episodic</itunes:type>
+        <itunes:owner>
+            <itunes:name>Fantasy Chronicles Team</itunes:name>
+            <itunes:email>fantasy@chronicles.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Fiction"/>
+        <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
+        <item>
+            <title><![CDATA[Episode 1 - The Dragon's Lair]]></title>
+            <description><![CDATA[In this episode, we delve into the legendary tale of the Dragon's Lair, where a fearless knight faces the wrath of a powerful dragon.]]></description>
+            <link>https://example.com/episodes/the-dragons-lair</link>
+            <guid isPermaLink="false">ep1-thedragonslair</guid>
+            <dc:creator><![CDATA[Fantasy Chronicles Team]]></dc:creator>
+            <pubDate>Thu, 01 Aug 2024 09:54:02 GMT</pubDate>
+            <enclosure url="https://drive.google.com/uc?export=download&id=1oPfr3ufkI9h7OGpKKoS8s5rD20y-rkV3" length="432000" type="audio/mpeg"/>
+            <itunes:summary>In this episode, we delve into the legendary tale of the Dragon's Lair, where a fearless knight faces the wrath of a powerful dragon.</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>00:27:00</itunes:duration>
+            <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
