@@ -39,5 +39,19 @@
             <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
+        <item>
+            <title><![CDATA[🚨 DER 01. AUGUST 2024 🚨]]></title>
+            <description><![CDATA[+++ Messerattacke in Kreuzberg +++\n+++ Zeltbrand in Tiergarten +++\n+++ Geldautomat in Marzahn gesprengt +++\n+++ Juwelierüberfall in Berlin +++\n+++ Schüsse in Spandau +++\n+++ Glasflaschenvorfall in Mitte +++]]></description>
+            <link>https://example.com/episodes/august-2-2024</link>
+            <guid isPermaLink="false">ep-august-2-2024</guid>
+            <dc:creator><![CDATA[Fantasy Chronicles Team]]></dc:creator>
+            <pubDate>Fri, 02 Aug 2024 07:03:57 GMT</pubDate>
+            <enclosure url="https://bit.ly/3SuOCNG" length="22498100" type="audio/mpeg"/>
+            <itunes:summary>+++ Messerattacke in Kreuzberg +++\n+++ Zeltbrand in Tiergarten +++\n+++ Geldautomat in Marzahn gesprengt +++\n+++ Juwelierüberfall in Berlin +++\n+++ Schüsse in Spandau +++\n+++ Glasflaschenvorfall in Mitte +++</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>3967418640000</itunes:duration>
+            <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
     </channel>
 </rss>
