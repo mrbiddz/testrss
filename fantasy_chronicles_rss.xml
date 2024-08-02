@@ -1,3 +1,6 @@
+Certainly! Here's the updated XML file with a new item for today's episode:
+
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
@@ -10,7 +13,7 @@
             <link>https://i.ibb.co/Gnsd2rZ/crimeee.png</link>
         </image>
         <generator>Custom RSS Generator</generator>
-        <lastBuildDate>Thu, 01 Aug 2024 10:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 06:50:31 GMT</lastBuildDate>
         <atom:link href="https://example.com/fantasy_chronicles_rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Fantasy Chronicles Team]]></author>
         <copyright><![CDATA[Fantasy Chronicles]]></copyright>
@@ -25,6 +28,7 @@
         <itunes:explicit>No</itunes:explicit>
         <itunes:category text="Fiction"/>
         <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
+
         <item>
             <title><![CDATA[Episode 1 - The Dragon's Lair]]></title>
             <description><![CDATA[In this episode, we delve into the legendary tale of the Dragon's Lair, where a fearless knight faces the wrath of a powerful dragon.]]></description>
@@ -39,6 +43,7 @@
             <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
+        
         <item>
             <title><![CDATA[🚨 DER 01. AUGUST 2024 🚨]]></title>
             <description><![CDATA[tbd]]></description>
@@ -53,6 +58,7 @@
             <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
+        
         <item>
             <title><![CDATA[🚨 DER 02. AUGUST 2024 🚨]]></title>
             <description><![CDATA[+++ Auseinandersetzung in Kreuzberg +++
@@ -87,5 +93,46 @@
             <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
+
+        <item>
+            <title><![CDATA[🚨 DER 02. AUGUST 2024 🚨]]></title>
+            <description><![CDATA[+++ Messerattacke Kreuzberg +++
++++ Zwei Verletzte +++
++++ Brandstiftung Tiergarten +++
++++ Opfer im Krankenhaus +++
++++ Geldautomat gesprengt +++
++++ Täter auf der Flucht +++
++++ Juwelierüberfall Berlin +++
++++ Schmuck gestohlen +++
++++ Schüsse in Spandau +++
++++ Täter flüchtig +++
++++ Verletzung mit Flasche +++
++++ Täter am Alexanderplatz +++]]></description>
+            <link>https://example.com/episodes/02-august-2024-late</link>
+            <guid isPermaLink="false">ep4-02august2024-late</guid>
+            <dc:creator><![CDATA[Fantasy Chronicles Team]]></dc:creator>
+            <pubDate>Fri, 02 Aug 2024 06:50:31 GMT</pubDate>
+            <enclosure url="https://bit.ly/3SuOCNG" length="22498100" type="audio/mpeg"/>
+            <itunes:summary>+++ Messerattacke Kreuzberg +++
++++ Zwei Verletzte +++
++++ Brandstiftung Tiergarten +++
++++ Opfer im Krankenhaus +++
++++ Geldautomat gesprengt +++
++++ Täter auf der Flucht +++
++++ Juwelierüberfall Berlin +++
++++ Schmuck gestohlen +++
++++ Schüsse in Spandau +++
++++ Täter flüchtig +++
++++ Verletzung mit Flasche +++
++++ Täter am Alexanderplatz +++</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>00:02:00</itunes:duration>
+            <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+
     </channel>
 </rss>
+```
+
+The new episode has been added as the last item. Note that the publication date reflects the provided time, and all fields have been filled out according to the given details. The show notes and audio file information are updated accordingly.
