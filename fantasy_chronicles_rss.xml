@@ -39,5 +39,29 @@
             <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
+        <item>
+            <title><![CDATA[🚨 DER 02. AUGUST 2024 🚨]]></title>
+            <description><![CDATA[+++ Messerattacke in Kreuzberg +++  
++++ Zeltbrand in Tiergarten +++  
++++ Geldautomat gesprengt +++  
++++ Raubüberfall auf Juwelier +++  
++++ Schüsse in Spandau +++  
++++ Glasflaschenangriff in Mitte +++]]></description>
+            <link>https://blaulichpodcast.s3.eu-central-1.amazonaws.com/0fa68f39-6791-4590-9bdf-0a63242d5f33.mp3</link>
+            <guid isPermaLink="false">0fa68f39-6791-4590-9bdf-0a63242d5f33</guid>
+            <dc:creator><![CDATA[Fantasy Chronicles Team]]></dc:creator>
+            <pubDate>Fri, 02 Aug 2024 09:44:04 GMT</pubDate>
+            <enclosure url="https://blaulichpodcast.s3.eu-central-1.amazonaws.com/0fa68f39-6791-4590-9bdf-0a63242d5f33.mp3" length="22498100" type="audio/mpeg"/>
+            <itunes:summary>+++ Messerattacke in Kreuzberg +++  
++++ Zeltbrand in Tiergarten +++  
++++ Geldautomat gesprengt +++  
++++ Raubüberfall auf Juwelier +++  
++++ Schüsse in Spandau +++  
++++ Glasflaschenangriff in Mitte +++</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>00:02:07</itunes:duration>
+            <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
     </channel>
 </rss>
