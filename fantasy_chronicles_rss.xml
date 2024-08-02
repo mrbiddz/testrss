@@ -53,5 +53,47 @@
             <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
+        <item>
+            <title><![CDATA[🚨 DER 01. AUGUST 2024 🚨]]></title>
+            <description><![CDATA[+++ Geheime Testepisode gefunden +++
+
++++ Geheimnisse enthüllt +++
+
++++ Automatische Veröffentlichung +++
+
++++ Google Drive Integration +++
+
++++ Verfügbar auf allen Plattformen +++
+
++++ Podcast auf Spotify +++
+
++++ Apple und Amazon Music +++ 
+
++++ Danke fürs Zuhören +++]]></description>
+            <link>https://example.com/episodes/01-august-2024</link>
+            <guid isPermaLink="false">ep3-01august2024</guid>
+            <dc:creator><![CDATA[Fantasy Chronicles Team]]></dc:creator>
+            <pubDate>Fri, 02 Aug 2024 06:41:55 GMT</pubDate>
+            <enclosure url="https://bit.ly/3YAmexk" length="442618" type="audio/mpeg"/>
+            <itunes:summary>+++ Geheime Testepisode gefunden +++
+
++++ Geheimnisse enthüllt +++
+
++++ Automatische Veröffentlichung +++
+
++++ Google Drive Integration +++
+
++++ Verfügbar auf allen Plattformen +++
+
++++ Podcast auf Spotify +++
+
++++ Apple und Amazon Music +++ 
+
++++ Danke fürs Zuhören +++</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>00:02:00</itunes:duration>
+            <itunes:image href="https://i.ibb.co/Gnsd2rZ/crimeee.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
     </channel>
 </rss>
